@@ -1,10 +1,17 @@
-langchain_groq
-langchain
-python-dotenv
-langchain-community
-langchain-core
-streamlit
-langchain_huggingface
-sentence-transformers
-transformers
-faiss-cpu
+# Exact versions jo local me kaam kar rahe hain
+langchain==0.1.17
+langchain-core==0.1.52
+langchain-community==0.0.38
+langchain-huggingface==0.0.3
+langchain-groq==0.0.1
+faiss-cpu==1.8.0
+pypdf==4.1.0
+sentence-transformers==2.2.2
+streamlit==1.32.0
+python-dotenv==1.0.0
+torch==2.1.2
+transformers==4.37.0
+huggingface-hub==0.20.3
+numpy==1.26.4
+packaging==23.2
+tenacity==8.5.0
