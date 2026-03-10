@@ -193,7 +193,7 @@ def RAG_function():
             )
         else:
             # Load and split the PDF
-            st.session_state.loader = PyPDFLoader('legal_document.pdf')
+            st.session_state.loader = PyPDFLoader('src/legal_document.pdf')
             st.session_state.doc = st.session_state.loader.load()
             
             st.session_state.text_splitter = RecursiveCharacterTextSplitter(
