@@ -5,6 +5,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1.17-orange)
 
+ Deployed link: https://raglegalchatbot-27ryarodkseun3crryjyyt.streamlit.app/
+
 ## 📋 Overview
 
 The **RAG App for Legal Consultancy** is an intelligent question-answering application built using **Retrieval-Augmented Generation (RAG)** techniques. It allows users to query large legal documents, such as Indian laws, and receive precise, context-based answers. The app combines **document embeddings**, **vector search**, and a **large language model (LLM)** to deliver accurate and detailed legal information efficiently.
