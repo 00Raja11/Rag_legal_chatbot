@@ -1,10 +1,11 @@
-langchain_groq
+streamlit
 langchain
-python-dotenv
 langchain-community
 langchain-core
-streamlit
-langchain_huggingface
+langchain-groq
+langchain-huggingface
 sentence-transformers
 transformers
 faiss-cpu
+python-dotenv
+pypdf
